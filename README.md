@@ -24,3 +24,6 @@ Staff scientist 1, Department of Environmental Health Sciences, Mailman School o
   - **Supervision:** Jeffrey Shaman and Sen Pei
 
 # First author publications and co-first author publications.
+
+# Other bibliography
+[My google scholar](https://scholar.google.com/citations?user=KUnWYyMAAAAJ&hl=en)
