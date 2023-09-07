@@ -4,8 +4,10 @@ jaime.cascante.vega@nyu.edu
 PhD student, Department of Biology, New York University
 
 # Academic Training
-*(ongoing)* PhD student, New York University, New York City, NY, USA (2023-)
-M.Sc, Biomedical Engineering, Universidad de los Andes, Colombia (2020)
+*(ongoing)* PhD student, New York University, New York City, NY, USA (2023-). Advisor(s): Mercedes Pascual
+
+M.Sc, Biomedical Engineering, Universidad de los Andes, Colombia (2020). Advisor(s): Mauricio Santos-Vega
+
 B.Sc, Biomedical Engineering, Universidad de los Andes, Colombia (2018) and Electronic Engineering, Universidad de los Andes, Colombia (drop out - 2018)
 
 # Appointments
