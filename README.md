@@ -14,9 +14,9 @@ Tools *(mostly)*: mathematical modeling (theory), non-linear dynamics, stochasti
 *(ongoing)* Ph.D , New York University, New York City, NY, USA (2023-).
   - **Advisor:** Mercedes Pascual
   
-M.Sc, Biomedical Engineering, Universidad de los Andes, Colombia (2020). Advisor(s): [Mauricio Santos-Vega](https://scholar.google.com/citations?user=RmrmFqoAAAAJ&hl=en) and [Juan Manuel Cordovez](https://scholar.google.com/citations?user=qAcAG5sAAAAJ&hl=en)
+M.Sc, Biomedical Engineering, Universidad de los Andes, Colombia (2020).
   - **Research:** Mathematical epidemiology, COVID19 epidemiology and Bayesian inference.
-  - **Advisors:** Jeffrey Shaman and Sen Pei.
+  - **Advisors:** Mauricio Santos-Vega and Juan Manuel Cordovez
 
 B.Sc, Biomedical Engineering, Universidad de los Andes, Colombia (2018) and Electronic Engineering, Universidad de los Andes, Colombia (drop out - 2018)
 
