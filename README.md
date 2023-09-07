@@ -12,7 +12,7 @@ Tools (mostly): mathematical modeling (theory), parameter estimation via simulat
 
 
 # Academic Training
-*(ongoing)* PhD student, New York University, New York City, NY, USA (2023-). Advisor(s): Mercedes Pascual
+*(ongoing)* PhD student, New York University, New York City, NY, USA (2023-). Advisor: Mercedes Pascual
 
 M.Sc, Biomedical Engineering, Universidad de los Andes, Colombia (2020). Advisor(s): Mauricio Santos-Vega and Juan Manuel Cordovez
 
