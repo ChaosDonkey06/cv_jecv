@@ -12,7 +12,7 @@ Tools *(mostly)*: mathematical modeling (theory), non-linear dynamics, stochasti
 
 # Academic Training
 *(ongoing)* Ph.D , New York University, New York City, NY, USA (2023-).
-  - **Advisor:** Mercedes Pascual
+  - **Advisor:** Mercedes Pascual.
 
 Staff scientist I, Department of Environmental Health Sciences, Mailman School of Public Health, Columbia University, New York City, NY, USA (2021-2023)
   - **Research:** Epidemiology of pathogenic bacteria, mathematical epidemiology, Data assimilation and Bayesian inference.
