@@ -13,7 +13,11 @@ Tools *(mostly)*: mathematical modeling (theory), non-linear dynamics, stochasti
 # Academic Training
 *(ongoing)* Ph.D , New York University, New York City, NY, USA (2023-).
   - **Advisor:** Mercedes Pascual
-  
+
+Staff scientist I, Department of Environmental Health Sciences, Mailman School of Public Health, Columbia University, New York City, NY, USA (2021-2023)
+  - **Research:** Epidemiology of pathogenic bacteria, mathematical epidemiology, Data assimilation and Bayesian inference.
+  - **Advisor:** Jeffrey Shaman.
+
 M.Sc, Biomedical Engineering, Universidad de los Andes, Colombia (2020).
   - **Research:** Mathematical epidemiology, COVID19 epidemiology and Bayesian inference.
   - **Advisors:** Mauricio Santos-Vega and Juan Manuel Cordovez
@@ -26,7 +30,7 @@ Staff scientist I, Department of Environmental Health Sciences, Mailman School o
   - **Supervision:** Jeffrey Shaman and Sen Pei
 
 Research assistant, Departamento de Ingeniería Biomédica, Universidad de los Andes, Bogotá, Colombia (2020-2021)
-  - **Research:** Mathematical epidemiology, Dengue and COVID19 infectious disease epidemiology and Bayesian inference.
+  - **Research:** Mathematical epidemiology, Dengue and COVID19 epidemiology and Bayesian inference.
   - **Supervision:** Mauricio Santos-Vega
   
 Research assistant, Facultad de Estudos Internacionales Políticos y Urbanos - Universidad del Rosario, Universidad de los Andes, Bogotá, Colombia (2020-2021)
