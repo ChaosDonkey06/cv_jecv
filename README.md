@@ -2,6 +2,7 @@
 jaime.cascante.vega@nyu.edu
 
 PhD student, Department of Biology, New York University
+
 ## Research interest
 Main research interest are how pathogen populations interact at multiple spatial and biological scales with humans and human populations. How does this translate to human population health on relatively short time scales. And how pathogen populations fate are shaped by it's interactions with humans and the environemnt. Or, in one sentence, the ecology and evolution of pathogens and the epidemiology of infectious diseases. I'm also interested in how can we design or help/guide design better tools to detect pathogens in humans.
 
@@ -10,10 +11,11 @@ On all the set of possible pathogens I'm mostly, probably by chance, interested 
 Tools *(mostly)*: mathematical modeling (theory), parameter estimation via simulation based inference (inverse problems) and Bayesian inference.
 
 # Academic Training
-*(ongoing)* PhD student, New York University, New York City, NY, USA (2023-). Advisor: Mercedes Pascual
-
-M.Sc, Biomedical Engineering, Universidad de los Andes, Colombia (2020). Advisor(s): Mauricio Santos-Vega and Juan Manuel Cordovez
-  - **Research:** Epidemiology of pathogenic bacteria
+*(ongoing)* Ph.D , New York University, New York City, NY, USA (2023-).
+  - **Advisor:** Mercedes Pascual
+  
+M.Sc, Biomedical Engineering, Universidad de los Andes, Colombia (2020). Advisor(s): [Mauricio Santos-Vega](https://scholar.google.com/citations?user=RmrmFqoAAAAJ&hl=en) and [Juan Manuel Cordovez](https://scholar.google.com/citations?user=qAcAG5sAAAAJ&hl=en)
+  - **Research:** Mathematical epidemiology and COVID19 epidemiology
   - **Advisors:** Jeffrey Shaman and Sen Pei
 
 B.Sc, Biomedical Engineering, Universidad de los Andes, Colombia (2018) and Electronic Engineering, Universidad de los Andes, Colombia (drop out - 2018)
