@@ -3,9 +3,11 @@ jaime.cascante.vega@nyu.edu
 
 PhD student, Department of Biology, New York University
 ## Research interest
-Epidemiology and ecology of infectious diseases, evolutionary biology and theoretical biology.
+Main research interest are how pathogen populations interact at multiple spatial and biological scales with human populations, and how does this translate to human health on relatively short time scales. Or, in one sentence, the ecology and evolution of pathogens and the epidemiology of infectious diseases.
 
-Tools (mostly): parameter estimation (inverse problems), simulation based inference and Bayesian inference.
+Tools (mostly): mathematical modeling (theory), parameter estimation via simulation based inference (inverse problems) and Bayesian inference.
+
+
 
 # Academic Training
 *(ongoing)* PhD student, New York University, New York City, NY, USA (2023-). Advisor(s): Mercedes Pascual
