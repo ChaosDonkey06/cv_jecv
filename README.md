@@ -3,9 +3,6 @@
 jaime.cascante.vega@nyu.edu
 PhD student, Department of Biology, New York University
 
-# Interest
-Patogenic bacteria and 
-
 # Academic Training
 *(ongoing)* PhD student, New York University, New York City, NY, USA (2023-)
 M.Sc, Biomedical Engineering, Universidad de los Andes, Colombia (2020)
