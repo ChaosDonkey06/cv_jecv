@@ -2,6 +2,10 @@
 jaime.cascante.vega@nyu.edu
 
 PhD student, Department of Biology, New York University
+## Research interest
+Epidemiology and ecology of infectious diseases, evolutionary biology and theoretical biology.
+
+Tools (mostly): parameter estimation (inverse problems), simulation based inference and Bayesian inference.
 
 # Academic Training
 *(ongoing)* PhD student, New York University, New York City, NY, USA (2023-). Advisor(s): Mercedes Pascual
@@ -14,3 +18,4 @@ B.Sc, Biomedical Engineering, Universidad de los Andes, Colombia (2018) and Elec
 Staff scientist 1, Department of Environmental Health Sciences, Mailman School of Public Health, Columbia University, New York City, NY, USA (2021-2023)
   - Research: Epidemiology of pathogenic bacteria
   - Advisors: Jeffrey Shaman and Sen Pei
+# First author publications and co-first author publications.
