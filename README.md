@@ -25,7 +25,20 @@ Staff scientist 1, Department of Environmental Health Sciences, Mailman School o
   - **Research:** Epidemiology of pathogenic bacteria
   - **Supervision:** Jeffrey Shaman and Sen Pei
 
-# First author publications and co-first author publications.
+Machine learning engineer, Whale and Jaguar, Bogotá, Colombia (2018-2020)
+
+# First and co-first authored publications.
 
 # Other bibliography
 [My google scholar](https://scholar.google.com/citations?user=KUnWYyMAAAAJ&hl=en)
+
+# Other academic training and workshops
+  - (2023) Making sense of heritable variation (Population genetics). Biology, Columbia University, NYC, USA.
+  - (2022) Flatiron 2022 Workshop: Machine Learning X Science, NYC, USA.
+  - (2022) EEID 2022 Workshop: Pandemic Scenario Modeling and Science Communication, Atlanta, USA.
+  - (2021) Stochastic Epidemic Models with Inference, SISMID, Washington University, online.
+  - (2021) Infectious Disease Immunology in within-host models, SISMID, Washington University, online.
+  - (2021) Statistic and Modeling with Novel Data Streams, SISMID, Washington University, online.
+  - (2019) Advance Machine Learning, Biomedical Engineering, Universidad de los Andes, Bogotá, Colombia.
+  - (2018) Non Linear Dynamics, Electronic and Computer Engineer, Universidad de los Andes, Bogotá, Colombia.
+
