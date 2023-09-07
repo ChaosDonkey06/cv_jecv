@@ -3,7 +3,7 @@ jaime.cascante.vega@nyu.edu
 
 PhD student, Department of Biology, New York University
 ## Research interest
-Main research interest are how pathogen populations interact at multiple spatial and biological scales with humans and human populations, and how does this translate to human population health on relatively short time scales. Or, in one sentence, the ecology and evolution of pathogens and the epidemiology of infectious diseases. I'm also interested in how can we design or help design better tools to detect pathogens in humans.
+Main research interest are how pathogen populations interact at multiple spatial and biological scales with humans and human populations. How does this translate to human population health on relatively short time scales. And how pathogen populations fate are shaped by it's interactions with humans and the environemnt. Or, in one sentence, the ecology and evolution of pathogens and the epidemiology of infectious diseases. I'm also interested in how can we design or help design better tools to detect pathogens in humans.
 
 On all the set of possible pathogens I'm mostly, probably by chance, interested in pathogenic bacteria and in viruses transmitted by vectors. Broad interests are theoretical and mathematical biology and epidemiology using applied mathematics and data-sciences approches.
 
