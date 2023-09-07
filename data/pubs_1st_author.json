@@ -1,0 +1,50 @@
+[
+	{
+		"id": "http://zotero.org/users/9551388/items/TZXYR2Y2",
+		"type": "article-journal",
+		"container-title": "Scientific Reports",
+		"language": "en",
+		"page": "12",
+		"source": "Zotero",
+		"title": "Estimating and forecasting the burden and spread of Colombia’s SARS-CoV2 first wave",
+		"author": [
+			{
+				"family": "Cascante-Vega",
+				"given": "Jaime"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9551388/items/4ZS2CKMY",
+		"type": "article-journal",
+		"language": "en",
+		"page": "12",
+		"source": "Zotero",
+		"title": "How disease risk awareness modulates transmission: coupling infectious disease models with behavioural dynamics",
+		"author": [
+			{
+				"family": "Cascante-Vega",
+				"given": "Jaime"
+			},
+			{
+				"family": "Torres-Florez",
+				"given": "Samuel"
+			},
+			{
+				"family": "Cordovez",
+				"given": "Juan"
+			},
+			{
+				"family": "Santos-Vega",
+				"given": "Mauricio"
+			}
+		]
+	}
+]

@@ -11,6 +11,9 @@ On all the set of possible pathogens I'm mostly, probably by chance, interested 
 Tools *(mostly)*: mathematical modeling (theory), non-linear dynamics, stochastic models, parameter estimation via simulation based inference (inverse problems), Data assimilation and Bayesian inference.
 
 # Academic Training
+
+<div class="list">
+
 *(ongoing)* Ph.D , New York University, New York City, NY, USA (2023-).
   - **Advisor:** Mercedes Pascual.
 
@@ -20,11 +23,16 @@ Staff scientist I, Department of Environmental Health Sciences, Mailman School o
 
 M.Sc, Biomedical Engineering, Universidad de los Andes, Colombia (2020).
   - **Research:** Mathematical epidemiology, COVID19 epidemiology and Bayesian inference.
-  - **Advisors:** Mauricio Santos-Vega and Juan Manuel Cordovez
+  - **Advisors:** Mauricio Santos-Vega and Juan Manuel Cordovez.
 
 B.Sc, Biomedical Engineering, Universidad de los Andes, Colombia (2018) and Electronic Engineering, Universidad de los Andes, Colombia (drop out - 2018)
 
-# Appointments
+</div>
+
+# Academic appointments
+
+<div class="list">
+
 Staff scientist I, Department of Environmental Health Sciences, Mailman School of Public Health, Columbia University, New York City, NY, USA (2021-2023)
   - **Research:** Epidemiology of pathogenic bacteria, mathematical epidemiology and Data assimilation.
   - **Supervision:** Jeffrey Shaman and Sen Pei
@@ -32,20 +40,33 @@ Staff scientist I, Department of Environmental Health Sciences, Mailman School o
 Research assistant, Departamento de Ingeniería Biomédica, Universidad de los Andes, Bogotá, Colombia (2020-2021)
   - **Research:** Mathematical epidemiology, Dengue and COVID19 epidemiology and Bayesian inference.
   - **Supervision:** Mauricio Santos-Vega
-  
+
 Research assistant, Facultad de Estudos Internacionales Políticos y Urbanos - Universidad del Rosario, Universidad de los Andes, Bogotá, Colombia (2020-2021)
   - **Research:** Data science and COVID19 infectious disease epidemiology.
   - **Supervision:** Alejandro Feged-Rivadeneira
 
+
+</div>
+
+# Other work experience
+
+<div class="list">
+
 Machine learning engineer, Whale and Jaguar, Bogotá, Colombia (2018-2020)
- 
+
 Teaching assistant, Universidad de los Andes, Bogotá, Colombia (2018-2020)
   - Mathematical Models and Simulations in Biomedical Systems, Biomedical engineering (20h/week).
-  
+
 Undergraduate Teaching assistant, Universidad de los Andes, Bogotá, Colombia (2018-2020)
   - Course: Precalculus (6h/week). | Course: Differential Calculus (6h/week, Jan 2015 - May 2016). | Circuits and Instrumentation (6h/week, Aug 2016 - May 2017) | Course: Mathematical Models and Simulations in Biomedical Systems, Biomedical engineering (12h/week, Aug 2017 - Dec 2017 and Aug 2018 - Dec 2018). | Course: Control Systems,  Electronic Engineering  (12h/week, Jan 2018 - May 2018). | Course: Mathematical Models and Simulations in Biomedical Systems, Biomedical engineering (6h/week, Aug 2017 - Dec 2017 and Aug 2018 - Dec 2018).
 
+</div>
+
 # First and co-first authored publications.
+
+<div class="list">
+
+</div>
 
 # Other bibliography
 [My google scholar](https://scholar.google.com/citations?user=KUnWYyMAAAAJ&hl=en)
@@ -59,4 +80,3 @@ Undergraduate Teaching assistant, Universidad de los Andes, Bogotá, Colombia (2
   - (2021) Statistic and Modeling with Novel Data Streams, SISMID, Washington University, online.
   - (2019) Advance Machine Learning, Biomedical Engineering, Universidad de los Andes, Bogotá, Colombia.
   - (2018) Non Linear Dynamics, Electronic and Computer Engineer, Universidad de los Andes, Bogotá, Colombia.
-
