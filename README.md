@@ -5,6 +5,8 @@ PhD student, Department of Biology, New York University
 ## Research interest
 Main research interest are how pathogen populations interact at multiple spatial and biological scales with human populations, and how does this translate to human health on relatively short time scales. Or, in one sentence, the ecology and evolution of pathogens and the epidemiology of infectious diseases.
 
+Broad interests are theoretical and mathematical biology and epidemiology using applied mathematics and data-sciences approches.
+
 Tools (mostly): mathematical modeling (theory), parameter estimation via simulation based inference (inverse problems) and Bayesian inference.
 
 
