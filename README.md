@@ -1,5 +1,4 @@
-# Curriculum Vitae
-# Jaime Cascante Vega
+# Jaime Cascante Vega's Curriculum vitae
 jaime.cascante.vega@nyu.edu
 
 PhD student, Department of Biology, New York University
