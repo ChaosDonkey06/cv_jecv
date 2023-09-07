@@ -1,9 +1,7 @@
 # Curriculum Vitae
 # Jaime Cascante Vega
-Department of Biology
-New York University
-
 jaime.cascante.vega@nyu.edu
+PhD student, Department of Biology, New York University
 
 # Interest
 Patogenic bacteria and 
